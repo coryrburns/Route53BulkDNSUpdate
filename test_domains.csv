@@ -1,0 +1,4 @@
+Domain,Subdomain,Action,RecordType,RecordData
+coryburns.com,temp,CREATE,A,76.12.123.125
+corbumulak.com,test,CREATE,A,208.112.129.26
+detectiveaiseehaught.com,@,CREATE,A,208.112.129.26
